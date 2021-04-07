@@ -1,4 +1,4 @@
 
 (function printMyText(){
-   console.log("Helxszclow")
+   console.log("seems it is working..")
 })()
